@@ -42,6 +42,7 @@
   width: calc(100vw - 300px);
   background-color: #fafafa;
   padding: 46px 40px 0;
+  overflow: scroll;
 }
 
 .header-name a{
